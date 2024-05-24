@@ -1,4 +1,4 @@
-schedul,_id,,rain,id,route,id,exp_a
+schedule_id,train_id,route_id,exp_arr, exp_dep
 sch0002,t003,r007,09:45:00,13:00:00
 sch0003,t020,r022,15:20:00,18:45:00
 sch0004,t008,r005,12:00:00,16:30:00
